@@ -5,5 +5,5 @@ def meal_choice(veg1, veg2, protein=meat)
     puts "What a nutritious meal!" 
     puts "A plate of #{protein} with #{veg1} and #{veg2}."
   end
-  return this_should_work
+  p this_should_work
 end
